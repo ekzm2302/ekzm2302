@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h3>Chan Jae PortFolio</h3>
+https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4
+
 <h3>🧑‍💻Skill List</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,3 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<h3>👨‍💻Used Skill</h3>
+HTML5 CSS3 Sass Javascript Bootstrap Java Spring OracleSQL  Ajax Jquery Jsp
