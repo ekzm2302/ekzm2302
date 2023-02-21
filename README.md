@@ -1,4 +1,6 @@
-### Hi there 👋
+안녕하세요
+개발자를 꿈꾸는 박찬재 입니다.
+항상 어제보다 나은 오늘을 위해 항상 열심히 하겠습니다.
 
 <h3>Chan Jae PortFolio</h3>
 https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4
@@ -22,6 +24,3 @@ https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-<h3>👨‍💻Used Skill</h3>
-HTML5 CSS3 Sass Javascript Bootstrap Java Spring OracleSQL  Ajax Jquery Jsp
