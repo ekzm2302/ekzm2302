@@ -1,8 +1,8 @@
-안녕하세요
-개발자를 꿈꾸는 박찬재 입니다.
-항상 어제보다 나은 오늘을 위해 항상 열심히 하겠습니다.
+<h3 align="center">안녕하세요</h3>
+<h3 align="center">개발자를 꿈꾸는 박찬재 입니다.</h3>
+<h3 align="center">항상 어제보다 나은 오늘을 위해 항상 열심히 하겠습니다.</h3>
 
-<h3>Chan Jae PortFolio</h3>
+<h3>📱Chan Jae PortFolio</h3>
 https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4
 
 <h3>🧑‍💻Skill List</h3>
