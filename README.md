@@ -3,7 +3,7 @@
 <h4 align="center">항상 어제보다 나은 오늘을 위해 항상 열심히 하겠습니다.</h4>
 
 <h3 align="center">📱Chan Jae PortFolio</h3>
-https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4
+<h6 align="center">https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4</h6>
 
 <h3 align="center">🧑‍💻Skill List</h3>
 
